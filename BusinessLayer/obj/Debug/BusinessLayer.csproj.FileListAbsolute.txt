@@ -1,0 +1,9 @@
+C:\Users\ferna\source\repos\SellPointApp\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\ferna\source\repos\SellPointApp\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\ferna\source\repos\SellPointApp\BusinessLayer\bin\Debug\DataLayer.dll
+C:\Users\ferna\source\repos\SellPointApp\BusinessLayer\bin\Debug\DataLayer.pdb
+C:\Users\ferna\source\repos\SellPointApp\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\ferna\source\repos\SellPointApp\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\ferna\source\repos\SellPointApp\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\ferna\source\repos\SellPointApp\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\ferna\source\repos\SellPointApp\BusinessLayer\obj\Debug\BusinessLayer.pdb

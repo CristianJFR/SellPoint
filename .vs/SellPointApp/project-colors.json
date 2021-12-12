@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "22ef9ac4-1a35-496b-aa5c-becb3e05a663": {
+      "ProjectGuid": "22ef9ac4-1a35-496b-aa5c-becb3e05a663",
+      "DisplayName": "SellPointApp",
+      "ColorIndex": 0
+    },
+    "8ee9c74c-91d5-445a-b572-411042548a0a": {
+      "ProjectGuid": "8ee9c74c-91d5-445a-b572-411042548a0a",
+      "DisplayName": "DataLayer",
+      "ColorIndex": 1
+    },
+    "e93d8b1c-53a7-4625-b703-7f9bfe40361a": {
+      "ProjectGuid": "e93d8b1c-53a7-4625-b703-7f9bfe40361a",
+      "DisplayName": "BusinessLayer",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
