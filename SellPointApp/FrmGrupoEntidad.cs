@@ -15,6 +15,7 @@ namespace SellPointApp
 {
     public partial class FrmGrupoEntidad : Form
     {
+        //testing commit-2
         private int? id;
         public FrmGrupoEntidad()
         {
