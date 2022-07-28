@@ -94,6 +94,7 @@ namespace SellPointApp
         }
         public void Verificacion()
         {
+            //testing commit1
             SellPoint sellPoint = new SellPoint();
             if (txtUsuario.Text != "Usuario" && txtPassword.Text != "Contraseña")
             {
